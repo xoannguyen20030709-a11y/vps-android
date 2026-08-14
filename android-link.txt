@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stocks-postal-contemporary-formerly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://devel-href-down-major.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-13 20:50:33 UTC
+Created   : 2026-08-14 01:53:17 UTC
 =======================================================
