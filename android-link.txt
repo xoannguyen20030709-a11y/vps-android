@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://goal-mount-constitutes-calculated.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://talk-closest-powell-catering.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-16 20:30:12 UTC
+Created   : 2026-08-17 01:15:50 UTC
 =======================================================
