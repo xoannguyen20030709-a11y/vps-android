@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://simulation-experiences-surprised-calm.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://atlantic-advert-loc-basketball.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-18 20:31:47 UTC
+Created   : 2026-08-19 01:14:39 UTC
 =======================================================
