@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://interim-shipped-russell-combines.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://ericsson-everybody-textiles-there.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-22 05:35:25 UTC
+Created   : 2026-08-22 10:30:58 UTC
 =======================================================
