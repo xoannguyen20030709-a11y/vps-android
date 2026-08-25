@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://evident-black-diagnostic-appointed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://nashville-regularly-wanna-smithsonian.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-25 01:16:10 UTC
+Created   : 2026-08-25 05:40:06 UTC
 =======================================================
