@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lap-stations-double-macintosh.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://couple-gnu-athens-adrian.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-30 22:34:23 UTC
+Created   : 2026-08-31 03:39:49 UTC
 =======================================================
