@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://past-electricity-northeast-genre.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://bob-mesa-relatively-fragrances.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-04 22:16:30 UTC
+Created   : 2026-09-05 03:02:32 UTC
 =======================================================
