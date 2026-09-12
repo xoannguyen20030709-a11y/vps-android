@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://surgeons-democracy-nurse-dressing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://tour-returned-logo-intensive.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-12 09:11:36 UTC
+Created   : 2026-09-12 13:32:26 UTC
 =======================================================
