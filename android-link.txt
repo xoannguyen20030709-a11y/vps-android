@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://til-chelsea-origin-surgeon.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://ethics-constitute-including-transparent.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-12 22:07:30 UTC
+Created   : 2026-09-13 03:12:59 UTC
 =======================================================
