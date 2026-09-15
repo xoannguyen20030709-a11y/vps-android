@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://introduces-proudly-laser-dynamic.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://yield-her-precisely-ownership.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-15 18:54:07 UTC
+Created   : 2026-09-15 22:53:57 UTC
 =======================================================
