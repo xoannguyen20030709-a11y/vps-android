@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sequences-settlement-consist-avon.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://variable-hide-striking-retained.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-19 13:52:14 UTC
+Created   : 2026-09-19 17:56:38 UTC
 =======================================================
