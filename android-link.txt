@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sends-constraint-horses-fields.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://thousands-practices-becoming-physically.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-21 03:24:47 UTC
+Created   : 2026-09-21 10:35:10 UTC
 =======================================================
