@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://leave-hammer-craig-brandon.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://telling-acquired-thee-cds.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-10 19:18:46 UTC
+Created   : 2026-10-10 23:23:19 UTC
 =======================================================
