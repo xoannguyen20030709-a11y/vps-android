@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://seconds-provisions-pit-quickly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://transmit-diamond-earth-expo.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-21 19:18:50 UTC
+Created   : 2026-10-21 23:12:49 UTC
 =======================================================
