@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://slideshow-poker-theme-introduced.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://fisheries-cord-pale-bug.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-22 10:00:51 UTC
+Created   : 2026-10-22 15:03:12 UTC
 =======================================================
