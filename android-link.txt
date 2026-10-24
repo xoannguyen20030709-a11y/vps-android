@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://evaluation-disks-cited-resolved.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://ted-jungle-cutting-queensland.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-24 14:02:23 UTC
+Created   : 2026-10-24 18:01:15 UTC
 =======================================================
