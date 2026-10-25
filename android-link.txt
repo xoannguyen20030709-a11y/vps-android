@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://maryland-zero-johnston-charm.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://return-brooks-thing-market.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-25 18:17:25 UTC
+Created   : 2026-10-25 22:28:43 UTC
 =======================================================
