@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://deposits-viewer-prefix-apparently.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://spam-capital-choosing-partner.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-05 21:30:42 UTC
+Created   : 2026-11-06 05:10:12 UTC
 =======================================================
